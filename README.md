@@ -105,3 +105,31 @@ The sections
 - Personal life, and living in Rochester
 - Political science majors and interests in the field
 - Plans for future career
+
+### Taxonomy
+
+Again, each has the same banner (different title text) and
+diverges from there.
+
+#### Header
+
+Within the header tag is the title with an h1 tag
+
+#### Navigation
+
+Nav element with a ul, and li with nested a tags
+
+#### Images
+
+Each image is represented with an img tag wrapped in a figure
+
+The student names in the Digital communications page are h2 tags,
+and the title of each paragraph is an h3 tag.
+
+The title of each content section in the politics page is an h2.
+
+#### Content Sections
+
+Each content section of a picture and related titles and paragraphs
+is represented by a section tag. They all have a common class "ContentBlock",
+and individual ID's named after the student and the content inside
