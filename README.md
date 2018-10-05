@@ -51,8 +51,12 @@ word simplified title referring to the page
 
 ### Choreography
 
-They both have a similar header and navigation structure featuring
-a banner on the top of the page. After that, they diverge.
+The index/initial page is the Digital Communications page. The 
+reason for this is because it demonstrates the themes a bit more 
+than the politics page because it has 2 students and more content 
+for each (due to layout and architecture thereof).They both have 
+a similar header and navigation structure featuring a banner on 
+the top of the page. After that, they diverge.
 
 #### Header
 
