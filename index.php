@@ -12,7 +12,7 @@
 
 		<header>
 
-			<h1>Digital Communication: Using Media to Tell Stories</h1>
+			<h1>Plans for the Future</h1>
 
 		</header>
 
