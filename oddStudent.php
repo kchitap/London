@@ -5,6 +5,7 @@
 	<head>
 		<meta charset="UTF-8">
 		<title>Lab 7: Odd One Out</title>
+		<link rel="stylesheet" href="css/odd.css">
 	</head>
 
 	<body>
