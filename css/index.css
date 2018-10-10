@@ -7,10 +7,11 @@ body, html {
 
 .hero-image {
 	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/digital.png");
-	height: 70%;
+	height: 65%;
 	background-position: center;
 	background-size: cover;
 	position: relative;
+	padding: 20pt;
 }
 
 .hero-text {
@@ -29,7 +30,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #191970;
+    background-color: #0a0033;
 }
 
 li {
@@ -45,11 +46,11 @@ li a {
 }
 
 li a:hover:not(.active) {
-    background-color: #0000CD;
+    background-color: #1a0080;
 }
 
 .active {
-    background-color: #0000CD;
+    background-color: #1a0080;
 }
 
 header {
@@ -57,7 +58,7 @@ header {
 	height: 20%;
 	float: left;
 	margin-bottom: 20px;
-	background-color: #333;
+	background-color: #0a0033;
 }
 
 header h1 {
