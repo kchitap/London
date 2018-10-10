@@ -90,7 +90,7 @@
 			<p>I could never state to know the entirety of my life's plan, however, since the onset of my involvement in undergraduate research, I can say with a degree of certainty that it would involve emerging media and historical preservation and education.</p>
 
 			<h3>Working with U of R</h3>
-			<p>I am computer science and digiatl media studies major. I work in two research labs. One in the ROC HCI lab in Wegmans under the guidance of Ehsan Hoque. I also work in the digial scholarschip lab in Rush Reeves library near the rare bare sections.</p>
+			<p>I am computer science and digital media studies major. I work in two research labs. One in the ROC HCI lab in Wegmans under the guidance of Ehsan Hoque. I also work in the digial scholarschip lab in Rush Reeves library near the rare bare sections.</p>
 
 		</section>
 
