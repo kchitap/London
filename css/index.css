@@ -1,0 +1,82 @@
+body {
+
+	margin: 0;
+	padding: 0;
+
+}
+
+/*-----------------------------*/
+
+header {
+
+	width: 80%;
+	height: 20vh;
+	background-color: blue;
+
+	display: inline-block;
+	float: left;
+
+}
+
+header h1 {
+
+	font-size: 2.7em;
+
+}
+
+/*-----------------------------*/
+
+nav {
+
+	display: inline-block;
+	background-color: red;
+
+	width: 20%;
+	height: 20vh;
+
+}
+
+/*-----------------------------*/
+
+h2 {
+
+	margin: 0;
+	height: 5vh;
+
+	background-color: green;
+	display: block;
+	text-align: center;
+
+}
+
+/*-----------------------------*/
+
+.ContentBlock {
+
+	margin: 0;
+	padding: 0;
+	height: 50vh;
+
+	border: solid black 1px;
+
+}
+
+figure {
+
+	margin: 0;
+	float: left;
+
+	overflow: hidden;
+	border: solid red 1px;
+
+	width: 40%;
+	height: 100%;
+
+}
+
+img {
+
+	width: 100%;
+	height: auto;
+
+}
