@@ -18,8 +18,8 @@
 
 		<nav>
 			<ul>
-				<li><a href="index.php">Media</a></li>
 				<li><a href="oddStudent.php">Politics</a></li>
+				<li><a href="index.php">Media</a></li>
 			</ul>
 		</nav>
 
@@ -52,13 +52,7 @@
 			<p>This past summer was affirming that I’ve chosen the right path. I worked at a digital media and PR firm that works with classical musicians. I loved the experience, and worked on a lot of different projects for different artists. After graduation, I plan to pursue working on digital media for arts-based clients.</p>
 
 			<h3>The Job</h3>
-			<ul>
-				<li>added content (mostly concert dates) to websites</li>
-				<li>updated and checked up on Facebook pages</li>
-				<li>worked with photo and video content</li>
-				<li>updated PR logs</li>
-				<li>helped to created digital media plans at the quarter</li>
-			</ul>
+			<p> Here is a list of things that I have done job-wise: I added content (mostly concert dates) to websites, updated and checked up on Facebook pages, worked with photo and video content, updated PR logs, and helped to created digital media plans at the quarter.
 
 		</section>
 
