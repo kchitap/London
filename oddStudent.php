@@ -34,13 +34,16 @@
 			</div>
 		</div>
 
+		<aside>
 		<div class="slider">
 			<img src="images/Kaleb.jpg" />
 			<img src="images/CityHall.jpeg" />
 			<img src="images/Government.png" />
 			<img src="images/Books.jpg" />
 		</div>
+		</aside>
 
+		<article>
 		<section class="ContentBlock" id="KalebAbout">
 
 			<h2>Hometown</h2>
@@ -61,6 +64,7 @@
 			<p> For years I've wanted to work in government and public service in some way, hopefully in Rochester, my hometown.</p>
 
 		</section>
+		</article>
 
 	</body>
 
