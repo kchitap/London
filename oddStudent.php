@@ -13,12 +13,10 @@
 	</head>
 
 	<body>
-
+		<div class="grid">
 		<header>
 
 			<h1>Plans for the Future</h1>
-
-		</header>
 
 		<nav>
 			<ul>
@@ -26,6 +24,8 @@
 				<li><a href="index.php">Media</a></li>
 			</ul>
 		</nav>
+
+		</header>
 
 		<div class="hero-image">
 			<div class="hero-text">
