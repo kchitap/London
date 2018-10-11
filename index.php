@@ -37,7 +37,7 @@
 			<figure><img src="images/Aliye.jpg" alt="Aliye the photographer and her camera"></figure>
 
 			<h3>DIY Major</h3>
-			<p> created my own major here at the U of R (a DIY major!), through the interdepartmental major track. I realized in my first year that none of the majors that were offered were exactly right for me, and started to look into the interdepartmental major option. Basically, you're petitioning the school that none of the majors would fulfil what you want to do.</p>
+			<p> I created my own major here at the U of R (a DIY major!), through the interdepartmental major track. I realized in my first year that none of the majors that were offered were exactly right for me, and started to look into the interdepartmental major option. Basically, you're petitioning the school that none of the majors would fulfil what you want to do.</p>
 
 			<h3>Building the Major</h3>
 			<p>My sophomore year, I began the process of designing my major, by having a lot of meetings with the Multidisciplinary Studies office, talking to many professors that I had taken classes with that I liked, and attempting to create a solid way of describing the major that I wanted to create.</p>

@@ -1,8 +1,14 @@
 body, html {
-	margin: 0;
-	padding: 0;
+	margin-left: 20pt;
+	margin-right: 20pt;
+	margin-bottom: 15pt;
 	height: 100%;
 	font-family: Arial, Helvetica, sans-serif;
+	background-color: #001f3f
+}
+
+body {
+	color: white;
 }
 
 .hero-image {
@@ -68,8 +74,6 @@ header h1 {
 	font-family: Impact, Charcoal, sans-serif;
 }
 
-
-
 /*nav {
 
 	display: inline-block;
@@ -82,14 +86,8 @@ header h1 {
 */
 
 h2 {
-
 	margin: 0;
 	height: 5vh;
-
-	background-color: green;
-	display: block;
-	text-align: center;
-
 }
 
 
@@ -107,10 +105,7 @@ figure {
 
 	margin: 0;
 	float: left;
-
 	overflow: hidden;
-	border: solid red 1px;
-
 	width: 40%;
 	height: 100%;
 
