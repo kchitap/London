@@ -98,3 +98,10 @@ footer {
     grid-row: 4;
 }
 
+@media all and (max-width: 700px) {
+  aside,
+  article {
+    grid-column: 1 / 4;
+  }
+}
+

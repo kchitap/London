@@ -9,7 +9,7 @@
 	</head>
 
 	<body>
-
+		<div="grid">
 		<header>
 
 			<h1>Plans for the Future</h1>
@@ -22,8 +22,9 @@
 				<li><a href="index.php">Media</a></li>
 			</ul>
 		</nav>
+		
 
-		<h2> Aliye: Visual Media Specialist </h2>
+		<h2 class="Person1"> Aliye: Visual Media Specialist </h2>
 
 		<section class="ContentBlock" id="AliyeAbout">
 
@@ -45,7 +46,7 @@
 			<p>This past summer was affirming that I’ve chosen the right path. I worked at a digital media and PR firm that works with classical musicians. I loved the experience, and worked on a lot of different projects for different artists. After graduation, I plan to pursue working on digital media for arts-based clients.</p>
 
 			<h3>The Job</h3>
-			<p> Here is a list of things that I have done job-wise: I added content (mostly concert dates) to websites, updated and checked up on Facebook pages, worked with photo and video content, updated PR logs, and helped to created digital media plans at the quarter.
+			<p> Here is a list of things that I have done job-wise: I added content (mostly concert dates) to websites, updated and checked up on Facebook pages, worked with photo and video content, updated PR logs, and helped to created digital media plans at the quarter.</p>
 
 		</section>
 
@@ -110,7 +111,7 @@
 			<p>I came two laboratories that worked to craft three-dimensional representations busts, globals, and other sensitive items. Working with the Lazarus Lab and Digital Scholarship Lab brought me to a hybrid approach of Computer Science, Digital Media, and History that I never thought existed. In this approach, I use emerging technology to bring our past into the future and to breathe life and color into black ink on paper.</p>
 
 		</section>
-
+	</div>
 	</body>
 
 </html>
