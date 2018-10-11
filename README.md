@@ -137,3 +137,17 @@ The title of each content section in the politics page is an h2.
 Each content section of a picture and related titles and paragraphs
 is represented by a section tag. They all have a common class "ContentBlock",
 and individual ID's named after the student and the content inside
+
+## Designer Notes
+For this assignment, we decided to flip the requirements, meaning that the 
+"Odd Student Out" accessory webpage will be presented in a Z pattern while
+the two students found on the index page will be presented in an F pattern.
+
+To the best of my abilities, I have employed the CRAP princples throughout 
+the webpages that we were given. Contrast, for example, I had the figures alternate
+positions on the index page to give readers more stimulation while reading through
+each person's paragraph. On that same note, repetition comes into play when each part 
+of the two students' stories I have kept the formatting the same via the grid layout.
+On both webpages, alignment was key for me to accomplish, and I believe I have done that
+through the grid layout, keeping everything squared off. Lastly, everything is in close 
+proximity within each other. There is no excessive padding or margining between objects.
