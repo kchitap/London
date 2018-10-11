@@ -45,3 +45,22 @@ li a:hover:not(.active) {
     grid-auto-rows: minmax(250px, auto);
 }
 
+header {
+	grid-column: 1 / 3;
+	grid-row: 1;
+}
+
+.Person1 {
+	grid-column: 1 / 3;
+	grid-row: 2;
+}
+
+.AliyeAbout figure {
+	grid-column: 1;
+	grid-row: 3;
+}
+
+.AliyeAbout h3, p {
+	grid-column: 2;
+	grid-row: 3;
+}

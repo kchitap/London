@@ -14,16 +14,15 @@
 
 			<h1>Plans for the Future</h1>
 
-		</header>
-
 		<nav>
 			<ul>
 				<li><a href="oddStudent.php">Politics</a></li>
 				<li><a href="index.php">Media</a></li>
 			</ul>
 		</nav>
-		
 
+		</header>
+		
 		<h2 class="Person1"> Aliye: Visual Media Specialist </h2>
 
 		<section class="ContentBlock" id="AliyeAbout">
@@ -74,7 +73,7 @@
 
 		</section>
 
-		<h2>Famous: Coding and Culture</h2>
+		<h2 class="Person2">Famous: Coding and Culture</h2>
 
 		<section class="ContentBlock" id="FamousAbout">
 
