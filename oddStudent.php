@@ -6,13 +6,17 @@
 		<meta charset="UTF-8">
 		<title>Lab 7: Odd One Out</title>
 		<link rel="stylesheet" href="css/odd.css">
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+		<script src="sss/sss.min.js"></script>
+		<link rel="stylesheet" href="sss/sss.css" type="text/css" media="all">
+		<script>jQuery(function($) {$('.slider').sss();});</script>
 	</head>
 
 	<body>
 
 		<header>
 
-			<h1>Political Science: Study and Practice</h1>
+			<h1>Plans for the Future</h1>
 
 		</header>
 
@@ -23,11 +27,21 @@
 			</ul>
 		</nav>
 
-		<figure><img src="images/CityHall.jpeg" alt="A portrait of Rochester City Hall"></figure>
+		<div class="hero-image">
+			<div class="hero-text">
+				<h1>Political Science</h1>
+				<p>Study and Practice</p>
+			</div>
+		</div>
+
+		<div class="slider">
+			<img src="images/Kaleb.jpg" />
+			<img src="images/CityHall.jpeg" />
+			<img src="images/Government.png" />
+			<img src="images/Books.jpg" />
+		</div>
 
 		<section class="ContentBlock" id="KalebAbout">
-
-			<figure><img src="images/Kaleb.jpg" alt="A picture of Kaleb and his father"></figure>
 
 			<h2>Hometown</h2>
 			<p>I am from Rochester New York and attended high school in the city of Rochester. I have lived within 30 minutes of the city of Rochester for my entire life.</p>
@@ -36,16 +50,12 @@
 
 		<section class="ContentBlock" id="KalebPoliSci">
 
-			<figure><img src="images/Books.jpg" alt="A closup of books on a shelf, one by Thomas Jefferson is in the forefront"></figure>
-
 			<h2>Theoretical Politics</h2>
 			<p>My Political Science major has a focus on theoretical political science and the use of models in research. Using this discipline I plan on completing research in the field of voting institutions, outcomes, and logical choice in voting.</p>
 
 		</section>
 
 		<section class="ContentBlock" id="KalebCareer">
-
-			<figure><img src="images/Government.png" alt="A basic graphic of a city hall building dome inside a blue circle"></figure>
 
 			<h2>Working at Home</h2>
 			<p> For years I've wanted to work in government and public service in some way, hopefully in Rochester, my hometown.</p>

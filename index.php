@@ -23,13 +23,6 @@
 			</ul>
 		</nav>
 
-		<div class="hero-image">
-			<div class="hero-text">
-				<h1>Digital Communication</h1>
-				<p>Using Media to Tell Stories</p>
-			</div>
-		</div>
-
 		<h2> Aliye: Visual Media Specialist </h2>
 
 		<section class="ContentBlock" id="AliyeAbout">
