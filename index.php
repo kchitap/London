@@ -4,22 +4,21 @@
 
 	<head>
 		<meta charset="UTF-8">
-		<title>Lab 7: Odd One Out</title>
+		<?php
+	  include('./inc/title.php');
+	  ?>
 		<link rel="stylesheet" href="css/index.css">
+	
 	</head>
 
 	<body>
 		<div="grid">
 		<header>
+			
+		<?php include('./inc/page-header.php');?>
 
-			<h1>Plans for the Future</h1>
+		<?php include('./inc/nav.php');?>
 
-		<nav>
-			<ul>
-				<li><a href="oddStudent.php">Politics</a></li>
-				<li><a href="index.php">Media</a></li>
-			</ul>
-		</nav>
 
 		</header>
 		
@@ -111,6 +110,16 @@
 
 		</section>
 	</div>
-	</body>
+
+
+
+
+
+
+	<?php
+	  include('./inc/menu-highlighter.php');
+	  ?>
+
+</body>
 
 </html>

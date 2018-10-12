@@ -1,3 +1,9 @@
+.is-current{
+	background: paleturquoise;
+	border: solid rgba(201, 211, 219, .5) 1px;
+	box-shadow: 0px 0px 10px #d9dde0;
+}
+
 body, html {
 	margin-left: 20pt;
 	margin-right: 20pt;

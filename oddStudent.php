@@ -4,7 +4,9 @@
 
 	<head>
 		<meta charset="UTF-8">
-		<title>Lab 7: Odd One Out</title>
+				<?php
+	  include('./inc/title.php');
+	  ?>
 		<link rel="stylesheet" href="css/odd.css">
 		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
 		<script src="sss/sss.min.js"></script>
@@ -16,14 +18,8 @@
 		<div class="grid">
 		<header>
 
-			<h1>Plans for the Future</h1>
-
-		<nav>
-			<ul>
-				<li><a href="oddStudent.php">Politics</a></li>
-				<li><a href="index.php">Media</a></li>
-			</ul>
-		</nav>
+		<?php include('./inc/page-header.php');?>
+			<?php include('./inc/nav.php');?>
 
 		</header>
 
@@ -36,10 +32,10 @@
 
 		<aside>
 		<div class="slider">
-			<img src="images/Kaleb.jpg" />
-			<img src="images/CityHall.jpeg" />
-			<img src="images/Government.png" />
-			<img src="images/Books.jpg" />
+			<img src="images/Kaleb.jpg" alt="Kaleb" />
+			<img src="images/CityHall.jpeg"  alt="CityHall" />
+			<img src="images/Government.png" alt="Government" />
+			<img src="images/Books.jpg" alt="Books" />
 		</div>
 		</aside>
 
@@ -66,6 +62,11 @@
 		</section>
 		</article>
 
+
+	<?php
+	  include('./inc/menu-highlighter.php');
+	  ?>
+	</div>
 	</body>
 
 </html>
