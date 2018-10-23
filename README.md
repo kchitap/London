@@ -36,4 +36,29 @@ be sidebar (less important) content.
   
 ### Student Info Page
 
+- main: is used for the main content of the page which includes
+  the student, their major, and their job
+- section: there are two sections in the main, one which includes the two
+  similar students because they are in the same group and one for the odd one
+- h2: is used to introduce each section and clearly state if they are the similar
+  students or the odd one out
+- div: The divs here are for dividing content of different groups primarily for
+  styling it separately
+  - One is used for the information block for the student because it is a portion
+    of its section
+  - One is used for the student's name and picture
+  - One is for the student's major
+  - One is for the student's job
+  - Each "fun fact" is in a div as well
+- h2: is used to introduce both sections and the aside. This is because they are
+  headings for their content underneath, and are separated by sections or other 
+  structural tags
+- h3: is used for each student's name because it is the heading for the student's info
+  and is nested under which type of student they are (similar or different)
+- h4: is used for the major and job headings because they are the titles for these
+  sets of information and are nested under the student they belong to
+- p: is used for each paragraph of text that is long enough to be a paragraph
+- aside: is used as the sidebar and in an F layout it sits to the side of the
+  content so an aside tag is appropriate
+
 ## Choreography
