@@ -12,15 +12,20 @@ be sidebar (less important) content.
 
 - <header> for the webpage title because the text inside
   acts as a heading for the whole website
+- <section> for each distinct area of the page such as content 
+  blocks because they are different sections of the page. I used
+  sections for all of them because they represent sections of the
+  F or Z layouts
+- <h1> For the text of the header because it is the main
+  heading for the website
+- <nav> for the navigation between pages so that if the user
+  does want to go back they can
+  
 ### Index page
 
 - <div> For the image in the center because it is different
   than the outer 4 sections and is not one of the Z layout 
   focal points
-- <h1> For the text of the header because it is the main
-  heading for the website
-- <nav> for the navigation between pages so that if the user
-  does want to go back they can
 - <h2> Is used because it is the heading for the content
   in its section but is under the main site heading
 - <p> is used because it is a paragraph of text under
@@ -30,6 +35,5 @@ be sidebar (less important) content.
   
 ### Student Info Page
 
-- <section> for each distinct area of the page such as content 
-  blocks because they are different sections of the page
+
 ## Choreography
