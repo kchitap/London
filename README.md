@@ -1,5 +1,10 @@
 # London
-Lab 7 for Team London
+
+## Team
+
+- Kaleb Chitaphong: Information Architect
+- Reeshad Rahman: Designer
+- Sharfuz Shifat: Coder
 
 ## Ontology
 
