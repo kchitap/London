@@ -70,7 +70,7 @@ eye to the read more link that takes them to the second page. The second page ha
 the content and presents this content in an F layout because it is heavier in content and 
 is good for reading content.
 
-### Z Layout
+### Index Page: Z Layout
 
 - At the top left is the title, which is first because it explains
   the site's purpose
@@ -85,3 +85,22 @@ is good for reading content.
   to read more.
 - The bottom right is the read more link, which takes the user to the 
   content page
+  
+### Content Page: F Layout
+
+- The title and navigation are at the top of the page because they explain
+  what the content is and how to move around it.
+- The content is columnar to the sidebar, as per the F layout. 
+- The content features each student's name and photo first, because it shows
+  who they are, then their major and job in that order because the students
+  are similar/different based on connection of a job to their major, so it 
+  makes sense to know the major first
+- The two similar students are in one section and placed under a heading stating
+  that they are the two similar students. They are first because since the
+  different student is "odd", the similar ones are the baseline or normal
+- The odd student is in a separate section with a heading stating that they are
+  different. They are at the end because they are the one thing that sticks out
+- The content in the sidebar is on the side because white it relates to the students
+  it does not directly relate to the idea that one student is the odd one out
+- The footer contains information that is necessary to know, such as the creators
+  and the original student pages, but is not directly connected to the content
