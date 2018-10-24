@@ -3,7 +3,6 @@
 <html lang="en">
 
 	<head>
-
 		<meta charset="UTF-8">
 		<title>Odd Student Out - Homepage</title>
 		<link type="text/css" rel="stylesheet" href="css/homepage.css">
