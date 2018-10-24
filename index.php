@@ -27,11 +27,11 @@
 						<a href="students.html">Student Info</a>
 					</li>
 				</ul>
-			<nav>
+			</nav>
 		</section>
 
 		<div class="center">
-			<img src="images/Odd.png">
+			<img src="images/Odd.png" alt="A picture of several similar stick figures that are black and one that is red">
 		</div>
 
 		<section class="bottomLeft">
@@ -44,7 +44,25 @@
 		</section>
 		
 		<footer>
-			<div>Made by Kaleb Chitaphong</div>
+			<h2>Creators</h2>
+			<ul>
+				<li>Kaleb Chitaphong: Information Architect</li>
+				<li>Reeshad Rahman: Designer</li>
+				<li>Sharfuz Shifat: Coder</li>
+			</ul>
+
+			<h2>Original Student Websites</h2>
+			<ul>
+				<li>
+					<a href="http://www.csc174.org/assignment02/bsmart/">Brandon's Original Site</a>
+				</li>
+				<li>
+					<a href="http://www.csc174.org/assignment02/fclark2/">Famous' Original Site</a>
+				</li>
+				<li>
+					<a href="http://www.csc174.org/assignment02/kchitap/">Kaleb's Original Site</a>
+				</li>
+			</ul>
 		</footer>
 	</body>
 
