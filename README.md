@@ -62,3 +62,21 @@ be sidebar (less important) content.
   content so an aside tag is appropriate
 
 ## Choreography
+
+### Pages
+
+The first page introduces the user to the page and uses a z layout to draw the user's
+eye to the read more link that takes them to the second page. The second page has all of 
+the content and presents this content in an F layout because it is heavier in content and 
+is good for reading content.
+
+### Z Layout
+
+- At the top left is the title, which is first because it explains
+  the site's purpose
+- This leads them to the top right, which has the navigation. This is
+  slightly less important than the title, but still belongs at the top
+  because it shows the user that it is a 2 page site and where they are
+- Through the center is an image of "odd one out" where one figure is 
+  a different color. This helps the user to understand what the site
+  means by odd student out
