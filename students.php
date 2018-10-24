@@ -26,8 +26,9 @@
 						<a href="index.html">Home</a>
 						<a href="students.html">Student Info</a>
 					</li>
-				<ul>
+				</ul>
 		</section>
+
 		<main>
 			<section class="studentInfoBlock" id="similarStudents">
 				<h2>Two Similar Students</h2>
@@ -83,24 +84,26 @@
 			</section>
 		</main>
 
-		<aside>
+		<section class="sidebar">
+
+			<h2>Fun Facts</h2>
 
 			<div class="asideBlock">
-				<h2>About Brandon's Hometown</h2>
+				<h3>About Brandon's Hometown</h3>
 				<p>I am from a city close to Rochester, New York. Rochester is a city on Lake Ontario, in New York State. Old industrial buildings cluster near the Genesee River’s High Falls. A vast collection of toys and dolls forms the core of the Strong National Museum of Play.</p>
 			</div>
 
 			<div class="asideBlock">
-				<h2>Famous' story</h2>
+				<h3>Famous' story</h3>
 				<p>It happened one Spring ago as I sat studying in the dimly lit library stacks across from the Rare Books section at the University of Rochester in New York. I suddenly put it together: this was my approach to media and communication. Interactive history, digitization, a game. Presenting the wealth of past knowledge in ways future generations want to experience.</p>
 			</div>
 
 			<div class="asideBlock">
-				<h2>Kaleb's Future Plans</h2>
+				<h3>Kaleb's Future Plans</h3>
 				<p>For years I've wanted to work in government and public service in some way, hopefully in Rochester, my hometown.</p>
 			</div>
 
-		</aside>
+		</section>
 		
 	</body>
 

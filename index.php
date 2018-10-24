@@ -26,7 +26,8 @@
 						<a href="index.html">Home</a>
 						<a href="students.html">Student Info</a>
 					</li>
-				<ul>
+				</ul>
+			<nav>
 		</section>
 
 		<div class="center">
