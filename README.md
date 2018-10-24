@@ -62,8 +62,8 @@ be sidebar (less important) content.
 - h4: is used for the major and job headings because they are the titles for these
   sets of information and are nested under the student they belong to
 - p: is used for each paragraph of text that is long enough to be a paragraph
-- aside: is used as the sidebar and in an F layout it sits to the side of the
-  content so an aside tag is appropriate
+- aside: is used for each student's information and provides additional information
+  that relates to the student, but not the main idea of the website
 
 ## Choreography
 
@@ -104,7 +104,9 @@ is good for reading content.
   different student is "odd", the similar ones are the baseline or normal
 - The odd student is in a separate section with a heading stating that they are
   different. They are at the end because they are the one thing that sticks out
-- The content in the sidebar is on the side because white it relates to the students
-  it does not directly relate to the idea that one student is the odd one out
+- The content in the aside is on the side because white it relates to the students
+  it does not directly relate to the idea that one student is the odd one out. Each
+  different aside is after the student content so that it lines up with the student
+  it connects to directly
 - The footer contains information that is necessary to know, such as the creators
   and the original student pages, but is not directly connected to the content
