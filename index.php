@@ -5,7 +5,7 @@
 	<head>
 
 		<meta charset="UTF-8">
-		<title>Odd Student Out</title>
+		<title>Odd Student Out - Homepage</title>
 		<link type="text/css" rel="stylesheet" href="css/homepage.css">
 	</head>
 
@@ -23,8 +23,8 @@
 			<nav>
 				<ul>
 					<li>
-						<a href="index.html">Home</a>
-						<a href="students.html">Student Info</a>
+						<a href="index.php">Home</a>
+						<a href="students.php">Student Info</a>
 					</li>
 				</ul>
 			</nav>
@@ -40,7 +40,7 @@
 		</section>
 
 		<section class="bottomRight">
-			<a href="students.html">Read about these students!</a>
+			<a href="students.php">Read about these students!</a>
 		</section>
 		
 		<footer>
