@@ -21,6 +21,12 @@ be sidebar (less important) content.
 - nav: for the navigation between pages so that if the user
   does want to go back they can (contains ul, li, and a as per
   best practices of navigation
+- footer: holds student web pages and the creators and is a
+  footer because it contains relevant information to the site,
+  but not the odd student out domain
+- ul (in footer): used because the creators and websites are
+  both lists of information that relate to each other within
+  the list, but not the other list
   
 ### Index page
 
@@ -31,8 +37,6 @@ be sidebar (less important) content.
   in its section but is under the main site heading
 - p: is used because it is a paragraph of text under
   the h2 in its section
-- footer: Is the bottom of the page with information on
-  the team and the original websites of the students
   
 ### Student Info Page
 
