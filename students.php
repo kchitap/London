@@ -37,7 +37,7 @@
 				<div class="studentInfo">
 					<div class="titleBlock">
 						<h3>Brandon</h3>
-						<img src="images/brandon.jpg" alt="A picture of Brandon">
+						<img src="images/Brandon.jpg" alt="A picture of Brandon">
 					</div>
 					<div class="infoBlock">
 						<h4>Major</h4>
@@ -61,7 +61,7 @@
 				<div class="studentInfo">
 					<div class="titleBlock">
 						<h3>Famous</h3>
-						<img src="images/famous.jpg" alt="A picture of famous and his friends">
+						<img src="images/Famous.jpg" alt="A picture of Famous">
 					</div>
 
 					<div class="infoBlock">
@@ -89,7 +89,7 @@
 				<div class="studentInfo">
 					<div class="titleBlock">
 						<h3>Kaleb</h3>
-						<img src="images/kaleb.jpg" alt="A picture of Kaleb and his dad">
+						<img src="images/Kaleb.jpg" alt="A picture of Kaleb">
 					</div>
 
 					<div class="infoBlock">
