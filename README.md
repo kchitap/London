@@ -80,3 +80,8 @@ is good for reading content.
 - Through the center is an image of "odd one out" where one figure is 
   a different color. This helps the user to understand what the site
   means by odd student out
+- The bottom left has a short description of the content to begin engaging
+  the user and flow them to the read more. It is vague so they will want
+  to read more.
+- The bottom right is the read more link, which takes the user to the 
+  content page
