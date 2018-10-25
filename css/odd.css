@@ -84,8 +84,13 @@ img {
 
 .funFact {
     padding-left: 30px;
+    padding-top: 70px;
     margin-top: -22px;
     text-align: justify;
+}
+
+#oddOneOut .funFact {
+    padding-top: 110px;
 }
 
 footer {
