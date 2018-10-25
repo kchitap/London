@@ -1,141 +1,11 @@
-/*.is-current{
-	background: paleturquoise;
-	border: solid rgba(201, 211, 219, .5) 1px;
-	box-shadow: 0px 0px 10px #d9dde0;
-}
-
-body, html {
-	margin-left: 20pt;
-	margin-right: 20pt;
-	margin-bottom: 15pt;
-	height: 100%;
-	font-family: Arial, Helvetica, sans-serif;
-	background-color: #001f3f;
-	padding: 1em;
-}
-
-body {
-	color: white;
-}
-
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #0a0033;
-}
-
-li {
-    float: right;
-}
-
-li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-}
-
-li a:hover:not(.active) {
-    background-color: #1a0080;
-}
-
-.active {
-    background-color: #1a0080;
-}
-
-.grid {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    grid-auto-rows: minmax(150px, auto);
-}
-
-header {
-	grid-column: 1 / 3;
-	grid-row: 1;
-}
-
-.Person1 {
-	grid-column: 1 / 3;
-	grid-row: 2;
-}
-
-#AliyeAbout figure {
-	grid-column: 1;
-	grid-row: 3;
-}
-
-#AliyeAbout h3, p {
-	grid-column: 2;
-	grid-row: 3;
-}
-
-#AliyeMusic figure {
-	grid-column: 2;
-	grid-row: 4;
-}
-
-#AliyeMusic h3, p {
-	grid-column: 1;
-	grid-row: 4;
-}
-
-#AliyeFilm figure {
-	grid-column: 1;
-	grid-row: 5;
-}
-
-#AliyeFilm h3, p {
-	grid-column: 2;
-	grid-row: 5;
-}
-
-#AliyePhotography figure {
-	grid-column: 2;
-	grid-row: 6;
-}
-
-#AliyePhotography h3, p {
-	grid-column: 1;
-	grid-row: 6;
-}
-
-.Person2 {
-	grid-column: 1 / 3;
-	grid-row: 7;
-}
-
-#FamousAbout figure {
-	grid-column: 1;
-	grid-row: 8;
-}
-
-#FamousAbout h3, p {
-	grid-column: 2;
-	grid-row: 8;
-}
-
-#FamousRealization figure {
-	grid-column: 2;
-	grid-row: 9;
-}
-
-#FamousRealization h3, p {
-	grid-column: 1;
-	grid-row: 9;
-}
-
-#FamousHistory figure {
-	grid-column: 1;
-	grid-row: 10;
-}
-
-#FamousHistory h3, p {
-	grid-column: 2;
-	grid-row: 10;
-}
+/*
+CSS Block: the CSS is broken down into two files, each file corresponding to their respective webpage. index.css
+is appropriately linked to index.php while odd.css is linked to students.php. A unique CSS architecture is 
+employed in that elements that encompass are declared first, followed by all classes and the occassional id. 
+A grid layout is employed in both CSS files, and as such a "container" class is called first (after all encompassing
+elements). In index.css, the grid layout is applied to the entire webpage, so the classes following go in order,
+from left to right and top to bottom. In odd.css, the class "studentInfo" has a grid layout executed everytime the
+div is called. The CSS that follows also goes in order from left to right.
 */
 
 body {
@@ -187,6 +57,11 @@ body {
 .topRight li a:hover {
     background-color: red;
 }
+
+.is-current {
+	background-color: red;
+	color: white;
+ }
 
 .center {
 	grid-column: 1 / 3;

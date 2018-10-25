@@ -1,105 +1,112 @@
-.is-current{
-	background: paleturquoise;
-	border: solid rgba(201, 211, 219, .5) 1px;
-	box-shadow: 0px 0px 10px #d9dde0;
-}
-
-body, html {
-	margin-left: 20pt;
-	margin-right: 20pt;
-	margin-bottom: 15pt;
-	height: 100%;
-	font-family: Arial, Helvetica, sans-serif;
-	background-color: #001f3f
-}
+/*
+CSS Block: the CSS is broken down into two files, each file corresponding to their respective webpage. index.css
+is appropriately linked to index.php while odd.css is linked to students.php. A unique CSS architecture is 
+employed in that elements that encompass are declared first, followed by all classes and the occassional id. 
+A grid layout is employed in both CSS files, and as such a "container" class is called first (after all encompassing
+elements). In index.css, the grid layout is applied to the entire webpage, so the classes following go in order,
+from left to right and top to bottom. In odd.css, the class "studentInfo" has a grid layout executed everytime the
+div is called. The CSS that follows also goes in order from left to right.
+*/
 
 body {
-	color: white;
+    background-color: #309ca2;
+    color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
-.hero-image {
-	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/political.jpg");
-	height: 65%;
-	background-position: center;
-	background-size: cover;
-	position: relative;
-	padding: 20pt;
+.container {
+    margin: 0 auto;
+    width: 80%;
+    max-width: 1400px;
 }
 
-.hero-text {
-	text-align: center;
-    position: absolute;
-    font-size: 25pt;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    font-family: "Times New Roman", Times, serif;
-    color: white;
+.title {
+    font-size: 40px;
+    text-align: left;
 }
 
-ul {
+.navigation {
+    text-align: right;
+}
+
+.navigation ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    overflow: hidden;
-    background-color: #0a0033;
 }
 
-li {
+.navigation li {
     float: right;
+    margin-top: -135px;
+    border: 2px solid black;
 }
 
-li a {
+.navigation li a {
     display: block;
-    color: white;
+    color: black;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
 
-li a:hover:not(.active) {
-    background-color: #1a0080;
+.navigation li a:hover {
+    background-color: red;
 }
 
-.active {
-    background-color: #1a0080;
-}
+.is-current {
+    background-color: red;
+    color: white;
+ }
 
-.grid {
+.studentInfo {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    grid-auto-rows: minmax(250px, auto);
+    grid-template-columns: repeat(3, auto);
+    grid-gap: 10px;
 }
 
-header, aside, article, footer {
-    padding: 1em;
+img {
+    float: left;
 }
 
-header {
-    grid-column: 1 / 3;
-    grid-row: 1;
+#oddOneOut img {
+    border: 5px solid red;
 }
 
-.hero-image {
-	grid-column: 1 / 3;
-	grid-row: 2;
-	grid-gap: 10px;
+#oddOneOut {
+    margin-top: 50px;
 }
 
-aside {
-    grid-column: 1;
-    grid-row: 3;
-    padding-left: 0;
+.infoBlock {
+    margin-top: -22px;
+    padding-left: 10px;
+    text-align: justify;
 }
 
-article {
-    grid-column: 2;
-    grid-row: 3;
-    font-family: 'Merriweather', serif;
-    margin-top: 20px;
+.funFact {
+    padding-left: 30px;
+    margin-top: -22px;
+    text-align: justify;
 }
 
 footer {
-    grid-column: 1 / 2;
-    grid-row: 4;
+    grid-column: 1 / 3;
+    text-align: center;
+    font-size: 10px;
+    margin-top: 10px;
+    padding: 5px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

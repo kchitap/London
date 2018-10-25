@@ -4,7 +4,7 @@
 
 	<head>
 		<meta charset="UTF-8">
-		<title>Odd Student Out - Homepage</title>
+		<title>OSO - Homepage</title>
 		<link type="text/css" rel="stylesheet" href="css/index.css">
 	</head>
 
@@ -23,7 +23,7 @@
 			<nav>
 				<ul>
 					<li>
-						<a href="index.php">Home</a>
+						<a href="index.php" class="is-current">Home</a>
 						<a href="students.php">Student Info</a>
 					</li>
 				</ul>
@@ -53,6 +53,8 @@
 					<p><a href="http://www.csc174.org/assignment02/fclark2/">Famous' Original Site</a></p>
 					<p><a href="http://www.csc174.org/assignment02/kchitap/">Kaleb's Original Site</a></p>
 		</footer>
+	<script src="http://code.jquery.com/jquery.js"></script>
+	<script src="js/menu-highlighter.js"></script>
 	</div>
 	</body>
 
