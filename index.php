@@ -5,15 +5,16 @@
 	<head>
 		<meta charset="UTF-8">
 		<title>Odd Student Out - Homepage</title>
-		<link type="text/css" rel="stylesheet" href="css/homepage.css">
+		<link type="text/css" rel="stylesheet" href="css/index.css">
 	</head>
 
 	<body>
+	<div class="container">
 
 		<section class="topLeft">
 			<header>
 
-				<h1>Odd Student Out: 3 students and their majors and jobs</h1>
+				<h1>Odd Student Out</h1>
 
 			</header>
 		</section>
@@ -34,8 +35,8 @@
 		</div>
 
 		<section class="bottomLeft">
-			<h2>Students' majors and jobs</h2>
-			<p>Two of these students have had jobs relating to their majors and one has had a job not relating to their major. Learn about their majors and jobs!</p>
+			<h2>Students' Majors and Jobs</h2>
+			<p>Two of these students have had jobs relating to their majors and one has had a <u>job not relating to their major</u>. Learn about their majors and jobs!</p>
 		</section>
 
 		<section class="bottomRight">
@@ -44,25 +45,15 @@
 		
 		<footer>
 			<h2>Creators</h2>
-			<ul>
-				<li>Kaleb Chitaphong: Information Architect</li>
-				<li>Reeshad Rahman: Designer</li>
-				<li>Sharfuz Shifat: Coder</li>
-			</ul>
-
+				<p>Kaleb Chitaphong: Information Architect</p>
+				<p>Reeshad Rahman: Designer</p>
+				<p>Sharfuz Shifat: Coder</p>
 			<h2>Original Student Websites</h2>
-			<ul>
-				<li>
-					<a href="http://www.csc174.org/assignment02/bsmart/">Brandon's Original Site</a>
-				</li>
-				<li>
-					<a href="http://www.csc174.org/assignment02/fclark2/">Famous' Original Site</a>
-				</li>
-				<li>
-					<a href="http://www.csc174.org/assignment02/kchitap/">Kaleb's Original Site</a>
-				</li>
-			</ul>
+					<p><a href="http://www.csc174.org/assignment02/bsmart/">Brandon's Original Site</a></p>
+					<p><a href="http://www.csc174.org/assignment02/fclark2/">Famous' Original Site</a></p>
+					<p><a href="http://www.csc174.org/assignment02/kchitap/">Kaleb's Original Site</a></p>
 		</footer>
+	</div>
 	</body>
 
 </html>
