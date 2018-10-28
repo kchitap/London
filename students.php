@@ -14,20 +14,13 @@
 		<section class="title">
 			<header>
 
-				<h1>Odd Student Out</h1>
+		<h1>Odd Student Out</h1>
 
 			</header>
 		</section>
 
 		<section class="navigation">
-			<nav>
-				<ul>
-					<li>
-						<a href="index.php">Home</a>
-						<a href="students.php" class="is-current">Student Info</a>
-					</li>
-				</ul>
-			</nav>
+		<?php include "inc/nav.inc"; ?>
 		</section>
 
 		<main>
@@ -38,7 +31,8 @@
 					<div class="titleBlock">
 						<h3>Brandon</h3>
 					<div class="studentInfo">
-						<img src="images/Brandon.jpg" alt="A picture of Brandon">
+						<img src="images/brandon.jpg" alt="A picture of Brandon">
+
 					<div class="infoBlock">
 						<h4>Major</h4>
 						<p>First-generation student studying Financial Economics and Computer Science at the University of Rochester.</p>
@@ -55,12 +49,12 @@
 				</aside>
 
 				</div>
-
+</div>
 				
 					<div class="titleBlock">
 						<h3>Famous</h3>
 					<div class="studentInfo">
-						<img src="images/Famous.jpg" alt="A picture of Famous">
+						<img src="images/famous.jpg" alt="A picture of Famous">
 
 					<div class="infoBlock">
 						<h4>Major</h4>
@@ -78,6 +72,7 @@
 
 				</aside>
 				</div>
+</div>
 			</section>
 
 			<section class="studentInfoBlock" id="oddOneOut">
@@ -86,7 +81,7 @@
 					<div class="titleBlock">
 						<h3>Kaleb</h3>
 					<div class="studentInfo">
-						<img src="images/Kaleb.jpg" alt="A picture of Kaleb">
+						<img src="images/kaleb.jpg" alt="A picture of Kaleb">
 
 					<div class="infoBlock">
 						<h4>Major</h4>
@@ -104,19 +99,12 @@
 
 				</aside>
 				</div>
+</div>	
 			</section>
 		</main>
 
-		<footer>
-			<h2>Creators</h2>
-				<p>Kaleb Chitaphong: Information Architect</p>
-				<p>Reeshad Rahman: Designer</p>
-				<p>Sharfuz Shifat: Coder</p>
-			<h2>Original Student Websites</h2>
-					<p><a href="http://www.csc174.org/assignment02/bsmart/">Brandon's Original Site</a></p>
-					<p><a href="http://www.csc174.org/assignment02/fclark2/">Famous' Original Site</a></p>
-					<p><a href="http://www.csc174.org/assignment02/kchitap/">Kaleb's Original Site</a></p>
-		</footer>
+				<?php include "inc/footer.inc"; ?>
+
 
 	<script src="http://code.jquery.com/jquery.js"></script>
 	<script src="js/menu-highlighter.js"></script>

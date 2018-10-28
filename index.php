@@ -13,25 +13,18 @@
 
 		<section class="topLeft">
 			<header>
-
-				<h1>Odd Student Out</h1>
+		
+			<h1>Odd Student Out</h1>
 
 			</header>
 		</section>
 
 		<section class="topRight">
-			<nav>
-				<ul>
-					<li>
-						<a href="index.php" class="is-current">Home</a>
-						<a href="students.php">Student Info</a>
-					</li>
-				</ul>
-			</nav>
+			<?php include "inc/nav.inc"; ?>
 		</section>
 
 		<div class="center">
-			<img src="images/Odd.png" alt="A picture of several similar stick figures that are black and one that is red">
+			<img src="images/odd.png" alt="A picture of several similar stick figures that are black and one that is red">
 		</div>
 
 		<section class="bottomLeft">
@@ -43,16 +36,8 @@
 			<a href="students.php">Read about these students!</a>
 		</section>
 		
-		<footer>
-			<h2>Creators</h2>
-				<p>Kaleb Chitaphong: Information Architect</p>
-				<p>Reeshad Rahman: Designer</p>
-				<p>Sharfuz Shifat: Coder</p>
-			<h2>Original Student Websites</h2>
-					<p><a href="http://www.csc174.org/assignment02/bsmart/">Brandon's Original Site</a></p>
-					<p><a href="http://www.csc174.org/assignment02/fclark2/">Famous' Original Site</a></p>
-					<p><a href="http://www.csc174.org/assignment02/kchitap/">Kaleb's Original Site</a></p>
-		</footer>
+		<?php include "inc/footer.inc"; ?>
+
 	<script src="http://code.jquery.com/jquery.js"></script>
 	<script src="js/menu-highlighter.js"></script>
 	</div>
